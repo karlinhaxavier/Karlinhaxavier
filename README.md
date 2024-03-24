@@ -54,7 +54,7 @@
   <br/>
 <div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=cabeçalho"/>
-![snake gif](https://github.com/Karlinhaxavier/Karlinhaxavier/blob/output/github-contribution-grid-snake.svg)
+![snake animation].(https://github.com/Karlinhaxavier/Karlinhaxavier/blob/output/github-contribution-grid-snake.svg).
 </div>
 <br/>
  ## Sobre mim😎Atualmente atuo num Projeto, que se intitula “Projeto Pessoa Legal, cujo principal objetivo é desenvolver e tratar de um sistema voltado para o cumprimento da Lei Geral de proteção de Dados (LGPD). Esse projeto é liderado pelo Sr.Leandro Leal, Arquiteto java.
