@@ -54,7 +54,6 @@
   <br/>
 <div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=cabeçalho"/>
-![snake animation].(https://github.com/Karlinhaxavier/Karlinhaxavier/blob/output/github-contribution-grid-snake.svg).
  
 </div>
 <br/>
