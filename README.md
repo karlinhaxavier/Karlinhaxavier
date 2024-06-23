@@ -1,5 +1,9 @@
+<div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=302&color=gradient&text=Karla%20Xavier&fontColor=Blue%20Blue%20&fontAlign=50&animation=scaleIn&textBg=false&reversal=false&section=header"/>
+</div>
 
-## olá👋 eu sou karla xavier❤, estudante e apaixonada❤️ por tecnologia!💻
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff52c8&size=30&center=true&vCenter=blue&width=1000&lines=Olá,+Meu+nome+é+KarlaXavier+🙋🏽‍♀️;Tenho+33+anos.;👩🏽‍💻+Estou+Estudando+Análise+de+Desenvolvimento+de+Sistemas+💁🏽‍♀️📚;Sejam+Bem+Vindos!+💁🏽‍♀️)](https://git.io/typing-svg)
+
 
 - 👀🚀 Sobre mim - Estudante de Análise e Desenvolvimento de Sistema, (Migrando para a área de TI)
 - 🌱 Estudando Java...
