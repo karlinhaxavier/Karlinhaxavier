@@ -9,14 +9,15 @@
 - 🌱 Estudando Java...
 - 🎯🔎 Colaboro hoje no Projeto Pessoa Legal: cujo principal objetivo é desenvolver e tratar de um sistema voltado para o cumprimento da Lei Geral de proteção de Dados (LGPD).
 -  📫 How to reach email:.Kakakarla897@gmail.com
+<img src="https://i.pinimg.com/originals/91/81/55/918155387ad114a903cba1a13506e3be.gif" min-width="400px" max-width="400px" width="400px" align="right">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
  <br/>
 
  <br/>
 <div>
   <a href="https://github.com/karlinhaxavier">
-  <img height="180em" width="200em" src="https://github-readme-stats.vercel.app/api?username=karlinhaxavier&show_icons=blue-green&theme=blue-green&include_all_commits=blue-green&count_private=blue-green"/>
-  
+   
+  <img height="180em" width="290em" src="https://github-readme-stats.vercel.app/api?username=karlinhaxavier&show_icons=blue-green&theme=blue-green&include_all_commits=blue-green&count_private=blue-green"/>
   <img height="180em" width="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlinhaxavier&layout=compact&langs_count=16&theme=blue-green"/>
 
   <img height="130em" width="150em" src="http://1.bp.blogspot.com/-sJGD8ShYQ4o/UQZ_-hhse1I/AAAAAAAAeoQ/VrS8RkGH5gk/s1600/22.gif"/>
