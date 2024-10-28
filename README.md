@@ -10,7 +10,6 @@ Período: FEV/2023 até o momento
 Área de atuação: Desenvolvimento Backend Java / Gestora de Projetos / Usuário(a) do Sistema Operacional Linux
 - 🌱 Gestora de Projetos ...
 
--  📫 How to reach email:.Kakakarla897@gmail.com
 <img src="https://i.pinimg.com/originals/91/81/55/918155387ad114a903cba1a13506e3be.gif" min-width="400px" max-width="400px" width="400px" align="right">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
  <br/>
