@@ -64,16 +64,10 @@
  
 </div>
 <br/>
- ## Sobre mim😎Atualmente atuo num Projeto, que se intitula “Projeto Pessoa Legal, cujo principal objetivo é desenvolver e tratar de um sistema voltado para o cumprimento da Lei Geral de proteção de Dados (LGPD). Esse projeto é liderado pelo Sr.Leandro Leal, Arquiteto java.
-certificações de cursos e Atualmente iniciante em Java pela Udemy. Tenho projetos no Github nas linguagens (HTML,CSS E JAVASPRINT)
->👩🏾‍💻 Explorando novas tecnologias e estudando Análise de Desenvolvimento de Sistemas.
-Trabalhando no Projeto Pessoa Legal onde estamos desenvolvendo,
->🎓 História de Usuário de acesso, cadastro e recuperação de senha.
-Configuração de variável de ambiente no Windows e Linux.
-Criação das tabelas "cfPers" "cfPersName" usando modelo "CERIF 1.6" (Utilizando datamodeler, mysql e Dbeaver)
-Acesso ssh ao servidor principal, zabbix, Git, Mysql
-Estudando na Devquest _ Dev em Dobro _ Devsuperior _ Alura _ Udemy
->🌱 Aprendendo mais sobre: Java _ MySql _ Sql _ Modelagem de Dados _ Git e Github _ HTML _ CSS _ JavaScript _ Desenvolvimento Web,
-Ambiente de configuração de trabalho.
+ ## Gestora de projeto
+Instituto LLAM Tecnologia do Brasil · Tempo integral 
+fev de 2023-ate o momento·1 ano 9 mesesDe Remota.  
+ 
+Sou responsável por organizar as demandas e tarefas dos desenvolvedores residentes, que atuam em mais de 15 projetos em desenvolvimento. Isso inclui a gestão de cerca de 100 demandas em andamento, aprovações de merge requests e o suporte aos novos desenvolvedores, ajudando-os a se integrar nessa jornada. Além disso, analiso, projeto, desenvolvo e implemento sistemas e aplicações, garantindo que as soluções tecnológicas atendam às necessidades da empresa e contribuam para a eficiência dos processos.
  <br/>
  
