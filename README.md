@@ -5,7 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff52c8&size=30&center=true&vCenter=blue&width=1000&lines=Olá,+Meu+nome+é+KarlaXavier+🙋🏽‍♀️;Tenho+33+anos.;👩🏽‍💻+Estou+Estudando+Análise+de+Desenvolvimento+de+Sistemas+💁🏽‍♀️📚;Sejam+Bem+Vindos!+💁🏽‍♀️)](https://git.io/typing-svg)
 
 
-- 👀🚀 Sobre mim - Estudante de Análise e Desenvolvimento de Sistema, (Migrando para a área de TI)
+- 👀🚀 Sobre mim - Instituição: LLAM Tecnologia do Brasil - Residência Técnica
+Período: FEV/2023 até o momento
+Área de atuação: Desenvolvimento Backend Java / Gestora de Projetos / Usuário(a) do Sistema Operacional Linux
 - 🌱 Estudando Java...
 - 🎯🔎 Colaboro hoje no Projeto Pessoa Legal: cujo principal objetivo é desenvolver e tratar de um sistema voltado para o cumprimento da Lei Geral de proteção de Dados (LGPD).
 -  📫 How to reach email:.Kakakarla897@gmail.com
