@@ -3,23 +3,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff52c8&size=30&center=true&vCenter=blue&width=1000&lines=Olá,+Meu+nome+é+KarlaXavier+🙋🏽‍♀️;Tenho+33+anos.;👩🏽‍💻+Estou+Estudando+Análise+de+Desenvolvimento+de+Sistemas+💁🏽‍♀️📚;Sejam+Bem+Vindos!+💁🏽‍♀️)](https://git.io/typing-svg)
 
-<div align="center" style="display: flex; justify-content: space-around; align-items: center; padding: 20px;">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px">
-  <img src="https://i.pinimg.com/originals/91/81/55/918155387ad114a903cba1a13506e3be.gif" width="300px">
-  <img src="http://1.bp.blogspot.com/-sJGD8ShYQ4o/UQZ_-hhse1I/AAAAAAAAeoQ/VrS8RkGH5gk/s1600/22.gif" width="200px">
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="center">
+  <img src="https://i.pinimg.com/originals/91/81/55/918155387ad114a903cba1a13506e3be.gif" width="400px" align="center">
 </div>
 
 ## 👩🏽‍💻 Sobre Mim
 
-<img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="100" align="left">
-
 Sou uma Desenvolvedora Backend apaixonada por tecnologia, especializada em criar soluções robustas e escaláveis. Com experiência sólida em Spring Boot, Java e microsserviços, mantenho sempre o foco em código limpo e boas práticas de desenvolvimento.
 
-<br clear="all">
-
 ## 💻 Conhecimentos Técnicos
-
-<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="100" align="right">
 
 <table>
   <tr>
@@ -64,8 +57,6 @@ Sou uma Desenvolvedora Backend apaixonada por tecnologia, especializada em criar
     </td>
   </tr>
 </table>
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" align="left">
 
 ### 📊 Estatísticas de Desenvolvimento
 
@@ -145,14 +136,6 @@ Atuo como desenvolvedora backend e gestora de projetos, com foco em:
   <a href="https://www.linkedin.com/in/karla-xavier-952683291/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122065-7860aa9e-7355-44da-8d27-a365d498e2b7.png" width="150">
-  
-  ### 💖 Obrigada pela visita! 
-  
-  <img src="https://komarev.com/ghpvc/?username=karlinhaxavier&color=ff69b4&style=flat-square&label=Visualizações+do+Perfil">
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
