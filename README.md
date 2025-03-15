@@ -70,6 +70,38 @@ Sou uma Desenvolvedora Backend apaixonada por tecnologia, especializada em criar
   <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </div>
 
+## 💡 Conhecimentos Técnicos
+
+### 🔹 Desenvolvimento
+<div style="display: inline_block">
+  <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="spring" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</div>
+
+### 🔹 Ferramentas & DevOps
+<div style="display: inline_block">
+  <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+  <img alt="intellij" src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img alt="vscode" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img alt="redmine" src="https://img.shields.io/badge/Redmine-B32024?style=for-the-badge&logo=redmine&logoColor=white"/>
+</div>
+
+### 🔹 Competências & Boas Práticas
+<div style="display: inline_block">
+  <img alt="solid" src="https://img.shields.io/badge/SOLID-4B275F?style=for-the-badge"/>
+  <img alt="clean-code" src="https://img.shields.io/badge/Clean_Code-239120?style=for-the-badge"/>
+  <img alt="design-patterns" src="https://img.shields.io/badge/Design_Patterns-FF6C37?style=for-the-badge"/>
+  <img alt="rest-apis" src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge"/>
+  <img alt="junit" src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img alt="hateoas" src="https://img.shields.io/badge/HATEOAS-000000?style=for-the-badge"/>
+</div>
+
 ## 🌟 Experiência Profissional
 
 ### Instituto LLAM Tecnologia do Brasil
