@@ -5,10 +5,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff52c8&size=30&center=true&vCenter=blue&width=1000&lines=Olá,+Meu+nome+é+KarlaXavier+🙋🏽‍♀️;Tenho+33+anos.;👩🏽‍💻+Estou+Estudando+Análise+de+Desenvolvimento+de+Sistemas+💁🏽‍♀️📚;Sejam+Bem+Vindos!+💁🏽‍♀️)](https://git.io/typing-svg)
 
 
-- 👀🚀 Sobre mim - Instituição: LLAM Tecnologia do Brasil - Residência Técnica
-Período: FEV/2023 até o momento
-Área de atuação: Desenvolvimento Backend Java / Gestora de Projetos / Usuário(a) do Sistema Operacional Linux
-- 🌱 Gestora de Projetos ...
+- 👀🚀 Olá, Eu sou a Karla Xavier
+Eu sou Desenvolvedora Backend|
+Desenvolvedora Backend especializada em criar soluções robustas e escaláveis. Experiência sólida com Spring Boot, Java e microsserviços, sempre focada em código limpo e boas práticas de desenvolvimento.
+
+Gestora de Projetos: Habilidade comprovada em liderar equipes ágeis, gerenciar sprints e otimizar fluxos de trabalho. Comprometida com entregas de alta qualidade e desenvolvimento contínuo da equipe.
+
+Especialista em Sistemas: Domínio em ambientes Linux e Windows, com foco em automação, segurança e performance. Experiência em implementar e otimizar infraestruturas escaláveis para aplicações modernas.
 
 <img src="https://i.pinimg.com/originals/91/81/55/918155387ad114a903cba1a13506e3be.gif" min-width="400px" max-width="400px" width="400px" align="right">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
