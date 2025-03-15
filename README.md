@@ -69,6 +69,12 @@ Período: FEV/2023 até o momento
 Instituto LLAM Tecnologia do Brasil · Tempo integral 
 fev de 2023-ate o momento·1 ano 9 mesesDe Remota.  
  
-Sou responsável por organizar as demandas e tarefas dos desenvolvedores residentes, que atuam em mais de 15 projetos em desenvolvimento. Isso inclui a gestão de cerca de 100 demandas em andamento, aprovações de merge requests e o suporte aos novos desenvolvedores, ajudando-os a se integrar nessa jornada. Além disso, analiso, projeto, desenvolvo e implemento sistemas e aplicações, garantindo que as soluções tecnológicas atendam às necessidades da empresa e contribuam para a eficiência dos processos.
+Experiência na LLAM
+FEV/2023 - Até o momento • Distrito Federal, Brasil (Remoto)
+Desenvolvedora Backend: Desenvolvimento de APIs RESTful e microsserviços utilizando Spring Boot, Java e PostgreSQL. Implementação de autenticação JWT, documentação Swagger e testes unitários. Experiência com Docker, Git e metodologias ágeis.
+
+Gestora de Projetos: Liderança de equipes multidisciplinares em projetos de desenvolvimento de software. Implementação de metodologias ágeis (Scrum/Kanban), gerenciamento de sprints e otimização de processos, resultando em entregas consistentes e de alta qualidade.
+
+Especialista em Sistemas: Expertise em arquitetura de sistemas distribuídos, monitoramento de aplicações e práticas DevOps com Jenkins/GitLab. Foco em escalabilidade, performance e segurança..
  <br/>
  
