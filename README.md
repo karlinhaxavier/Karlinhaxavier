@@ -12,20 +12,61 @@
 
 Sou uma Desenvolvedora Backend apaixonada por tecnologia, especializada em criar soluções robustas e escaláveis. Com experiência sólida em Spring Boot, Java e microsserviços, mantenho sempre o foco em código limpo e boas práticas de desenvolvimento.
 
-## 📊 Estatísticas do GitHub
+## 💻 Conhecimentos Técnicos
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3>🚀 Desenvolvimento</h3>
+      <div style="display: inline_block"><br>
+        <img align="center" alt="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+        <img align="center" alt="Spring" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+        <img align="center" alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        <img align="center" alt="MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+        <img align="center" alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        <img align="center" alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      </div>
+    </td>
+    <td valign="top">
+      <h3>⚙️ Ferramentas & DevOps</h3>
+      <div style="display: inline_block"><br>
+        <img align="center" alt="Git" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+        <img align="center" alt="Docker" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+        <img align="center" alt="VSCode" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+        <img align="center" alt="IntelliJ" height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg">
+        <img align="center" alt="Eclipse" height="30" src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png">
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>📚 Competências</h3>
+      <div style="display: inline_block"><br>
+        <img src="https://img.shields.io/badge/SOLID-4B275F?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Clean_Code-239120?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Design_Patterns-FF6C37?style=for-the-badge"/>
+      </div>
+    </td>
+    <td valign="top">
+      <h3>🛠️ Práticas & Metodologias</h3>
+      <div style="display: inline_block"><br>
+        <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/HATEOAS-000000?style=for-the-badge"/>
+      </div>
+    </td>
+  </tr>
+</table>
+
+### 📊 Estatísticas de Desenvolvimento
 
 <div align="center">
-  <a href="https://github.com/karlinhaxavier">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karlinhaxavier&show_icons=blue-green&theme=blue-green&include_all_commits=blue-green&count_private=blue-green"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlinhaxavier&layout=compact&langs_count=16&theme=blue-green"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlinhaxavier&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karlinhaxavier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<div align="center">
-  <img height="130em" src="http://1.bp.blogspot.com/-sJGD8ShYQ4o/UQZ_-hhse1I/AAAAAAAAeoQ/VrS8RkGH5gk/s1600/22.gif"/>
-</div>
-
-![snake gif](https://github.com/karlinhaxavier/karlinhaxavier/blob/output/github-contribution-grid-snake.gif)
+### 🐍 Contribuições
+![Snake animation](https://github.com/karlinhaxavier/karlinhaxavier/blob/output/github-contribution-grid-snake.svg)
 
 ## 🚀 Principais Competências
 
@@ -68,38 +109,6 @@ Sou uma Desenvolvedora Backend apaixonada por tecnologia, especializada em criar
   <img alt="powershell" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
   <img alt="vscode" src="https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white"/>
   <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-</div>
-
-## 💡 Conhecimentos Técnicos
-
-### 🔹 Desenvolvimento
-<div style="display: inline_block">
-  <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="spring" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
-
-### 🔹 Ferramentas & DevOps
-<div style="display: inline_block">
-  <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
-  <img alt="intellij" src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img alt="vscode" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img alt="redmine" src="https://img.shields.io/badge/Redmine-B32024?style=for-the-badge&logo=redmine&logoColor=white"/>
-</div>
-
-### 🔹 Competências & Boas Práticas
-<div style="display: inline_block">
-  <img alt="solid" src="https://img.shields.io/badge/SOLID-4B275F?style=for-the-badge"/>
-  <img alt="clean-code" src="https://img.shields.io/badge/Clean_Code-239120?style=for-the-badge"/>
-  <img alt="design-patterns" src="https://img.shields.io/badge/Design_Patterns-FF6C37?style=for-the-badge"/>
-  <img alt="rest-apis" src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge"/>
-  <img alt="junit" src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
-  <img alt="hateoas" src="https://img.shields.io/badge/HATEOAS-000000?style=for-the-badge"/>
 </div>
 
 ## 🌟 Experiência Profissional
